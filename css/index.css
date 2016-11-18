@@ -1,0 +1,11 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+/* Center align the text within the three columns */
+.portfolio .col-md-4 {
+  margin-bottom: 20px;
+  text-align: center;
+}
